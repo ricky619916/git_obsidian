@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD(ddd)",
+  "folder": "20_Daily",
+  "template": "10_Templates/Dailynote(Templete)",
+  "autorun": false
+}

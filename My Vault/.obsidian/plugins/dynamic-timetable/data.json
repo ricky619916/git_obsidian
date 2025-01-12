@@ -1,0 +1,29 @@
+{
+  "filePath": "01_New Page/gnoble英語12-1.md",
+  "showEstimate": true,
+  "showStartTime": true,
+  "showEstimateInTaskName": true,
+  "showStartTimeInTaskName": true,
+  "showBufferTime": true,
+  "showProgressBar": true,
+  "intervalTime": 1,
+  "taskEstimateDelimiter": ";",
+  "startTimeDelimiter": "@",
+  "dateDelimiter": "",
+  "enableOverdueNotice": true,
+  "headerNames": [
+    "Tasks",
+    "Estimate",
+    "Start",
+    "End"
+  ],
+  "showCompletedTasks": true,
+  "applyBackgroundColorByCategory": true,
+  "showCategoryNamesInTask": false,
+  "categoryColors": [],
+  "categoryTransparency": 0.3,
+  "pathToDictionary": "11_Config/VC_dictionary/VC_dict.md",
+  "showRemainingTime": true,
+  "customUrlScheme": "",
+  "showUntilRegex": ""
+}

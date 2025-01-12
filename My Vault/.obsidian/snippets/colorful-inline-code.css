@@ -1,0 +1,15 @@
+body {
+    --color-inline-code: hsl(60, 60%, 60%);
+    --color-inline-code-background: hsl(120, 20%, 20%);
+  }
+  
+  .markdown-source-view.mod-cm6 .cm-inline-code {
+    color: var(--color-inline-code) !important;
+    background-color: var(--color-inline-code-background) !important;
+  }
+  
+  .cm-s-obsidian span.cm-inline-code {
+    color: var(--color-inline-code);
+    background-color: var(--color-inline-code-background);
+  }
+  

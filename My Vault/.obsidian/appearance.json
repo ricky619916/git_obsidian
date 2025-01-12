@@ -1,0 +1,29 @@
+{
+  "accentColor": "#8872b1",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "callout-margin-delete",
+    "callout-margin",
+    "マルチ",
+    "Basis",
+    "multi-column",
+    "MCL Gallery Cards",
+    "MCL Wide Views",
+    "Gummy Callout",
+    "colorful-inline-code",
+    "Command palette styling 01",
+    "Image styling - Zoom image",
+    "MCL Multi Column",
+    "imagesize",
+    "kanban-margin",
+    "otamesu"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "Source Han Code JP",
+  "baseFontSizeAction": false
+}

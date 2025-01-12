@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "When": "number",
+    "DayComponent": "text",
+    "品詞": "text",
+    "Created": "date",
+    "parents": "text"
+  }
+}

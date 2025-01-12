@@ -1,0 +1,9 @@
+{
+  "lane-width": 266,
+  "full-list-lane-width": true,
+  "new-note-folder": "04_New Kanban",
+  "new-line-trigger": "shift-enter",
+  "hide-card-count": true,
+  "date-picker-week-start": 0,
+  "show-checkboxes": false
+}

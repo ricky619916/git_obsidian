@@ -1,0 +1,29 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "02_New Image",
+  "newFileFolderPath": "01_New Page",
+  "showUnsupportedFiles": true,
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false,
+  "propertiesInDocument": "source",
+  "livePreview": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "newLinkFormat": "absolute",
+  "showIndentGuide": false,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "showRibbon": true
+}

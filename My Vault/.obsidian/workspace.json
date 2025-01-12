@@ -1,0 +1,376 @@
+{
+  "main": {
+    "id": "a5583e31fc1a9fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd58f0e0edf4c6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "018fd72de4a2f013",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "01_New Page/My First Dashboard.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "My First Dashboard"
+            }
+          },
+          {
+            "id": "351a47e3cd1b040d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "01_New Page/Routine Task.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Routine Task"
+            }
+          },
+          {
+            "id": "6ffbd96862c71daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_New Page/Mac ショートカット集.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mac ショートカット集"
+            }
+          },
+          {
+            "id": "2815dff5b0bfb594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a8aee2c2bec8d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "add9f73d138949ac",
+        "type": "tabs",
+        "dimension": 71.03658536585365,
+        "children": [
+          {
+            "id": "eb4ac8d921cee3bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c0fd249b016e155e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "bae02e9c130ef2df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "9ce1272f43ead6fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#日記",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d2878e35212352f",
+        "type": "tabs",
+        "dimension": 28.96341463414634,
+        "children": [
+          {
+            "id": "0550ba93be933cd3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01_New Page/Github同期用コピペ集.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.636934407552083,
+                  "lineSizeMultiplier": 2.74659016927083,
+                  "collapse-forces": false,
+                  "centerStrength": 0.552815755208333,
+                  "repelStrength": 9.17399088541667,
+                  "linkStrength": 0.4739990234375,
+                  "linkDistance": 233,
+                  "scale": 0.6276983480374438,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Github同期用コピペ集のグラフ"
+            }
+          },
+          {
+            "id": "ee7c0f7331490624",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "27f3d6e25a7268a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5024719238281
+  },
+  "right": {
+    "id": "401e524b523c41c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dae5f388cddadbe",
+        "type": "tabs",
+        "dimension": 69.12811387900356,
+        "children": [
+          {
+            "id": "3594bc613d7739b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01_New Page/Github同期用コピペ集.md"
+              },
+              "icon": "lucide-info",
+              "title": "Github同期用コピペ集のファイルプロパティ"
+            }
+          },
+          {
+            "id": "85980c5f0b34579b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_New Page/Github同期用コピペ集.md"
+              },
+              "icon": "lucide-list",
+              "title": "Github同期用コピペ集のアウトライン"
+            }
+          },
+          {
+            "id": "c770a5f90df702a1",
+            "type": "leaf",
+            "state": {
+              "type": "relation-view",
+              "state": {},
+              "icon": "link",
+              "title": "Relation View"
+            }
+          },
+          {
+            "id": "7cb54ff75112e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "12dca5011ed68112",
+        "type": "tabs",
+        "dimension": 30.871886120996443,
+        "children": [
+          {
+            "id": "5137c9438b6926a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:グラフビューを開く": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "random-note:ランダムノートを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "cmdr:Show trash": false,
+      "cmdr:グラフビュー: グラフビューを開く": false,
+      "cmdr:Finderでファイルを表示": false,
+      "cmdr:ファイルパスをコピー": false,
+      "cmdr:ReadItLater: クリップボードからページを作成": false,
+      "cmdr:Kanban: カンバンボードを新規作成": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-custom-frames:Open Notion": false,
+      "obsidian-custom-frames:Open Quizlet": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2815dff5b0bfb594",
+  "lastOpenFiles": [
+    "git_mac/tameshi.md",
+    "git_mac/10_Templates/古文(Templete).md",
+    "git_mac/10_Templates/かり2.md",
+    "git_mac/10_Templates/かり.md",
+    "git_mac/10_Templates/obsidian(Templete).md",
+    "git_mac/10_Templates/Weeklynote(Templete).md",
+    "git_mac/10_Templates/WebBookmark(Templete).md",
+    "git_mac/10_Templates/Dataviewjs(Templete).md",
+    "git_mac/10_Templates/Dailynote(Templete).md",
+    "git_mac/10_Templates/04_Dataview(Template).md",
+    "git_mac/10_Templates/03_Table(Script).md",
+    "git_mac/10_Templates/02_Default Templete.md",
+    "git_mac/10_Templates/01_Callout.md",
+    "git_mac/10_Templates",
+    "git_mac/11_Config/VC_dictionary/VC_dict.md",
+    "git_mac/11_Config/VC_dictionary",
+    "git_mac/11_Config",
+    "git_mac/20_Daily/2024-12-26(木).md",
+    "git_mac/20_Daily/2024-12-08(日).md",
+    "git_mac/20_Daily/2024-12-01(日).md",
+    "git_mac/20_Daily/2024-11-26(火).md",
+    "git_mac/20_Daily/2024-11-20(水).md",
+    "git_mac/20_Daily/2024-11-19(火).md",
+    "git_mac/20_Daily/2024-11-16(土).md",
+    "git_mac/20_Daily/2024-11-14(木).md",
+    "git_mac/20_Daily/2024-11-11(月).md",
+    "git_mac/20_Daily/2024-11-10(日).md",
+    "git_mac/20_Daily/2024-11-06(水).md",
+    "git_mac/20_Daily/2024-11-05(火).md",
+    "git_mac/20_Daily",
+    "git_mac/31_Home/Obsidian",
+    "git_mac/31_Home/MOC",
+    "git_mac/31_Home",
+    "git_mac/09_webclip",
+    "git_mac/02_New Image/https___qiita-image-store.s3.ap-northeast-1.amazonaws.com_0_3589270_4a351b40-3460-73f4-da5a-2fd58e19d6cc.avif",
+    "git_mac/02_New Image/bluesky_icon.ico",
+    "git_mac/02_New Image/bluesky_icon 2.ico",
+    "git_mac/02_New Image/Pasted image 20241206232936.png",
+    "git_mac/02_New Image/Pasted image 20241203222916.png",
+    "git_mac/02_New Image/Pasted image 20241203222805.png",
+    "git_mac/02_New Image/Pasted image 20241027181325.png",
+    "git_mac/02_New Image/Pasted image 20240505162839.png",
+    "git_mac/02_New Image/Pasted image 20240319205315.png",
+    "git_mac/02_New Image/Pasted image 20240312194347.png",
+    "git_mac/02_New Image/Pasted image 20240131190307.png",
+    "git_mac/03_New Canvas/Homepage(仮).canvas",
+    "02_New Image/Pasted image 20241206232936.png",
+    "03_New Canvas/Homepage(仮).canvas",
+    "09_Config/New Canvas/無題のファイル.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル 1.canvas"
+  ]
+}

@@ -1,0 +1,41 @@
+/*Callout上下の空白の削除*/
+.markdown-rendered p{
+    margin: 5px 10px;
+}
+/*Callout内でMarkdown記法を使ったときにでる空白の削除（多分）*/
+.markdown-rendered ul{
+    margin: 0px 0px;
+}
+/*Callout内でChecklistを使ったときにでる左の空白の削除*/
+.markdown-rendered ul.contains-task-list{
+    padding: 0px 0px;
+}
+
+/*上と2たようなもん*/
+.markdown-rendered li.task-list-item{
+    padding: 0px 0px;
+}
+
+.markdown-rendered div.callout.is-collapsible{
+    padding: 12px 12px 12px 12px;
+}
+
+/*Callout内のヘッダーの空白削除*/
+.markdown-rendered h1{
+    margin: 5px 10px;
+}
+.markdown-rendered h2{
+    margin: 5px 10px;
+}
+.markdown-rendered h3{
+    margin: 5px 10px;
+}
+.markdown-rendered h4{
+    margin: 5px 10px;
+}
+.markdown-rendered h5{
+    margin: 5px 10px;
+}
+.markdown-rendered h6{
+    margin: 5px 10px;
+}

@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://www.notion.so/",
+      "displayName": "Notion",
+      "icon": "box",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://quizlet.com/user/Rikikaisei619619/classes",
+      "displayName": "Quizlet",
+      "icon": "shield-question",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
